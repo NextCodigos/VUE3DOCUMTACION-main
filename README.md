@@ -28,3 +28,6 @@ npm run dev
 npm run build
 ```
 # VUE3DOCUMTACION-main
+#Archivo copy_app.sh: Un script para sobrescribir App.vue con otro archivo .vue.
+#Archivo create_app_files.sh: Un script para crear archivos App15.vue hasta App40.vue.
+#Mediante menu de bash archivo copy_app.sh, mostramos componentes de uno en uno en pagina principal.
